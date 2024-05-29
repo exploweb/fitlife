@@ -79,12 +79,12 @@ whatsappLink1.addEventListener("click", function(event) {
 
 var whatsappLink2 = document.getElementById("whatsappLink2");
 whatsappLink2.addEventListener("click", function(event) {
-  handleWhatsAppClick(event, "");
+  handleWhatsAppClick(event, "Halo, saya ingin bergabung dengan gym Fitlife, bagaimana caranya?");
 });
 
 var whatsappLink2 = document.getElementById("whatsappLink3");
 whatsappLink2.addEventListener("click", function(event) {
-  handleWhatsAppClick(event, "");
+  handleWhatsAppClick(event, "Halo, saya ingin bergabung dengan gym Fitlife, bagaimana caranya?");
 });
 
 
